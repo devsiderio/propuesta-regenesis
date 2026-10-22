@@ -40,6 +40,11 @@
       "label": "Actividades",
       "href": "/actividades",
       "icon": "calendar"
+    },
+    {
+      "label": "prueba",
+      "href": "/prueba",
+      "icon": "clipboard"
     }
   ]
 }
