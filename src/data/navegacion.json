@@ -1,6 +1,6 @@
 {
   "brand": {
-    "name": "Regénesis"
+    "name": "Regénesissss"
   },
   "contact": {
     "addressLine1": "Zona Noroeste, Barrio Belgrano",
@@ -40,11 +40,6 @@
       "label": "Actividades",
       "href": "/actividades",
       "icon": "calendar"
-    },
-    {
-      "label": "prueba",
-      "href": "/prueba",
-      "icon": "clipboard"
     }
   ]
 }
